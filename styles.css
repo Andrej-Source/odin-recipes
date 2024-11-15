@@ -1,3 +1,7 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
 .listA {
     font-size: 30px;
     font-weight: 800;
@@ -10,4 +14,25 @@
 
 .linkA {
     font-size: 22px;
+}
+
+.divA {
+    font-size: 22px;
+}
+
+.listC,
+.listB {
+    color: rgb(252, 36, 36);
+}
+
+.hB {
+    font-size: 30px;
+}
+
+.hP {
+    color: rgb(17, 233, 17);
+}
+
+.hC {
+    color: rgb(219, 34, 210);
 }
