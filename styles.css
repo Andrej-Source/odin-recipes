@@ -8,12 +8,16 @@ body {
 }
 
 .buttonA {
+    display: block;
     background-color: blue;
     width: 600px;
+    margin: auto;
+    border: 2px black solid;
 }
 
 .linkA,
 .divA {
+    display: block;
     font-size: 22px;
 }
 
@@ -45,4 +49,23 @@ body {
 
 .hE {
     color: white;
+}
+
+.DivN {
+    background-color: rgba(0, 153, 255, 0.63);
+    margin: auto;
+    width: 400px;
+    padding: 5px;
+    border: rgb(0, 0, 0) 2px solid;
+    border-top: 0px;
+    
+}
+
+.DivNA {
+    box-sizing: border-box;
+    background-color: aqua;
+    width: 100%;
+    padding: 5px;
+    text-align: center;
+    border: 1px black solid;
 }
